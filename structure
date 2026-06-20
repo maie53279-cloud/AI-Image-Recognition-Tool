@@ -1,0 +1,11 @@
+AI-Image-Recognition-Tool/
+│
+├── main.py                 # 主程序文件（UI设计+所有识别逻辑）
+├── requirements.txt        # Python依赖清单
+├── README.md              # 项目说明文档（本文件）
+├── .gitignore             # Git版本控制忽略文件
+├── LICENSE                # MIT开源许可证
+│
+└── screenshots/           # 截图目录（可选）
+    ├── main_window.png    # 主界面截图
+    └── recognition_result.png
